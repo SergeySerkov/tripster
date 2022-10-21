@@ -1,4 +1,4 @@
-Taxi aggregator with the ability to pay through Metamask. Build with with Next.js | Ethers.js | Sanity.io | Tailwind CSS
+Taxi aggregator with the ability to pay through Metamask. Build with Next.js | Ethers.js | Sanity.io | Tailwind CSS
 
 Check [this link](https://tripster-t9303542205-yandexru.vercel.app/) to watch demo.
 
